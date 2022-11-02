@@ -1,5 +1,10 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## Created by 21343058_Muhammad Farel Fahlevi
+
+- Class merupakan blueprint/rancangan dari suatu objek. Class adalah gambaran umum dari suatu objek.
+- objek merupakan hasil cetak dari class, atau bisa juga disebut hasil konkrit dari class.
+- Property (atau kadang juga dengan atribut atau field) adalah data yang terdapat dalam sebuah class.
+- Method = Tindakan yang bisa dilakukan di dalam class atau pada suatu objek.
+- Constructor = Merupakan method khusus yang digunakan untuk menginisialisasi objek dan tiap class boleh memiliki lebih dari satu constructor.
+- Visibility = Sebuah aturan tentang siapa yang dapat mengakses suatu data / atribut serta fungsi / method yang dibuat. Tindakan ini juga bisa disebut sebagai modifiers yang dimana secara umum dapat dibagi menjadi 3 yaitu public, private dan protected yang masing - masing mempunyai ketentuan - ketentuan dalam mengaksesnya.
+
+Dalam latihan dan tugas saya, saya dapat membuat program berdasarkan bimbingan seorang instruktur yang membahas cara menghitung nilai IP semester mahasiswa beserta datanya. Dan buat kelas Android, yang terdapat dalam paket bernama smartphone, lalu buat kelas bernama Android dengan empat metode, on, call, sms, dan shutdown.
